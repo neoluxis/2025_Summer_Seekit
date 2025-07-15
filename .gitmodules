@@ -7,3 +7,6 @@
 [submodule "ros2/src/ROS-TCP-Endpoint"]
 	path = ros2/src/ROS-TCP-Endpoint
 	url = https://github.com/Unity-Technologies/ROS-TCP-Endpoint.git
+[submodule "mini_contest_a"]
+	path = mini_contest_a
+	url = git@github.com:neoluxis/2025_mini_contest_a.git

@@ -10,3 +10,6 @@
 [submodule "mini_contest_a"]
 	path = mini_contest_a
 	url = git@github.com:neoluxis/2025_mini_contest_a.git
+[submodule "2025_national"]
+	path = 2025_national
+	url = git@github.com:neoluxis/2025_electronic_design.git
